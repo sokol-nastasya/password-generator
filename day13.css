@@ -1,0 +1,48 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    font-size: 25px;
+    color: #219ebc;
+    font-family: 'Single Day', cursive;
+}
+
+
+header {
+    padding: 10px;
+    text-align: center;
+    background-color: #8ecae6;
+    color: #ffb703;
+}
+
+header h1 {
+    margin: 0;
+}
+
+main {
+    display: block;
+    text-align: center;
+    justify-content: center;
+}
+
+input {
+    padding: 5px 10px;
+    border: 1px solid #219ebc;
+    border-radius: 5px;
+    color: #219ebc;
+    font-family: 'Single Day', cursive;
+    font-size: 20px;
+}
+
+button {
+    padding: 5px 10px;
+    border: 1px solid;
+    border-radius: 5px;
+    background-color: #ffb703;
+    color: #219ebc;
+    font-size: 20px;
+    font-family: 'Single Day', cursive;
+}
+
+p {
+    color: #ffb703;
+}
